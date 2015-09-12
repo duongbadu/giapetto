@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="100" height="100" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="tmw_desert_spacing" tilewidth="32" tileheight="32" spacing="1" margin="1" tilecount="48">
+  <image source="tmw_desert_spacing.png" width="265" height="199"/>
+  <terraintypes>
+   <terrain name="Sand" tile="-1"/>
+   <terrain name="Cobblestone" tile="-1"/>
+   <terrain name="Pavement" tile="-1"/>
+   <terrain name="Dirt" tile="-1"/>
+  </terraintypes>
+  <tile id="0" terrain="0,0,0,1"/>
+  <tile id="1" terrain="0,0,1,1"/>
+  <tile id="2" terrain="0,0,1,0"/>
+  <tile id="3" terrain="3,3,3,0"/>
+  <tile id="4" terrain="3,3,0,3"/>
+  <tile id="5" terrain="0,0,0,3"/>
+  <tile id="6" terrain="0,0,3,3"/>
+  <tile id="7" terrain="0,0,3,0"/>
+  <tile id="8" terrain="0,1,0,1"/>
+  <tile id="9" terrain="1,1,1,1"/>
+  <tile id="10" terrain="1,0,1,0"/>
+  <tile id="11" terrain="3,0,3,3"/>
+  <tile id="12" terrain="0,3,3,3"/>
+  <tile id="13" terrain="0,3,0,3"/>
+  <tile id="14" terrain="3,3,3,3"/>
+  <tile id="15" terrain="3,0,3,0"/>
+  <tile id="16" terrain="0,1,0,0"/>
+  <tile id="17" terrain="1,1,0,0"/>
+  <tile id="18" terrain="1,0,0,0"/>
+  <tile id="19" terrain="1,1,1,0"/>
+  <tile id="20" terrain="1,1,0,1"/>
+  <tile id="21" terrain="0,3,0,0"/>
+  <tile id="22" terrain="3,3,0,0"/>
+  <tile id="23" terrain="3,0,0,0"/>
+  <tile id="24" terrain="0,0,0,2"/>
+  <tile id="25" terrain="0,0,2,2"/>
+  <tile id="26" terrain="0,0,2,0"/>
+  <tile id="27" terrain="1,0,1,1"/>
+  <tile id="28" terrain="0,1,1,1"/>
+  <tile id="29" terrain="0,0,0,0"/>
+  <tile id="32" terrain="0,2,0,2"/>
+  <tile id="33" terrain="2,2,2,2"/>
+  <tile id="34" terrain="2,0,2,0"/>
+  <tile id="35" terrain="2,2,2,0"/>
+  <tile id="36" terrain="2,2,0,2"/>
+  <tile id="40" terrain="0,2,0,0"/>
+  <tile id="41" terrain="2,2,0,0"/>
+  <tile id="42" terrain="2,0,0,0"/>
+  <tile id="43" terrain="2,0,2,2"/>
+  <tile id="44" terrain="0,2,2,2"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt2llPwkAYhtHPBfddo6gJiXqlxv//9xwSG7QwHboIvTgneW8h4aFDQWcRMdvSWKbFuBykHW5oR6FLyUXa5YZ2FVqUVD320x4G3iRW9yCv6lG9Vjtpuz239/NY9/G3iR5l9R7HaSc9dxqLM+n3eahH2TZ6+EzPa9PjLu1mjd3Gej1Y1qbH/H3f9v74PJxXbbTt0ef+OHdeuV4WxtRDp+Ue19H8udDl+8qk9hzkVa/vWbT7PGjzXq83J6/r+TN/bR/TnjJ7jnwPTfLm36Fzv3E0nUnTtJe018zeQo8ucmfLOtfAV3TrQV6pR9M10DQ9uin1eE/76LDPFY+pR1lTj3Xvudrek5HX1OM//x7FavUe9futITcNPUr6/l+C3z+Gpce46DEuegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ/kGEw9BeQ==
+  </data>
+ </layer>
+</map>
